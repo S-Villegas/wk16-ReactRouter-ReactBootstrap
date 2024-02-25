@@ -1,10 +1,17 @@
-
+//importing components:
+import Alertgrad from "./Alertgrad";
+import Listinfo from "./Listinfo";
 
 function About() {
     return (
-        <div>
-            
-        <h1>This is my About Page</h1>
+
+      <div>   
+      <Listinfo/>     
+
+   
+      <h2>RSVP</h2>
+      <Alertgrad/>  
+
         </div>
     )
 }
