@@ -1,3 +1,4 @@
+//importing:
 import Alert from 'react-bootstrap/Alert';
 
 function Alertgrad() {
@@ -15,4 +16,5 @@ function Alertgrad() {
   );
 }
 
+//this it is the default return .'export default' matches component & file name.
 export default Alertgrad;

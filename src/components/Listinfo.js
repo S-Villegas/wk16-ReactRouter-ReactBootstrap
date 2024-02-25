@@ -1,3 +1,4 @@
+//importing:
 import ListGroup from 'react-bootstrap/ListGroup';
 
 function Listinfo() {
@@ -10,4 +11,5 @@ function Listinfo() {
   );
 }
 
+//this it is the default return .'export default' matches component & file name.
 export default Listinfo;
